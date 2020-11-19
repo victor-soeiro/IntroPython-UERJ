@@ -6,3 +6,4 @@ Disciplina: Tópicos Especiais de Física B IV (FIS04-02813)
 Professores: Helena Malbouisson, Dilson de Jesus Damião e Clemencia Mora.
 
 # Projetos
+> Interação da radiação com a matéria através da equação de Bethe-Bloch
